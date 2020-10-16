@@ -18,3 +18,11 @@ j) Sampling time (čas vzorčenja t vz_ciklih ) spremenite na 239.5 cikov. Pravi
 (enačba: t vz =t vz_ciklih /f preskalriana )? ______________62.875 ms_______________.
 
 Komentar: 
+
+Program pretvarja analogno vrednost v digitalno desetiško vrednost. 
+
+Vrednost je 8-bitna, to pa pomeni da imamo vrednosti od 0-255.
+
+S tem, ko spremijamo potenciometer se spreminja vrednost.
+
+Program sprva ni hotel delovati, napaka je bila na plošči pri pinih.
